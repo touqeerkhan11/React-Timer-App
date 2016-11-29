@@ -1,6 +1,6 @@
 # React-Timer-App
 
-live demo [https://infinite-dawn-57584.herokuapp.com/#/] :eyes:
+## [live demo](https://infinite-dawn-57584.herokuapp.com/#/) :eyes:
 
 Npm install should do the trick.
 
